@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanlai666
-- 👀 I’m interested in intership in data sciencist 
+- 👀 I’m interested in intership in data sciencist & software engineer
 - 🌱 I’m currently learning machine learning & deep learning
 - 📫 How to reach me b9081726354@gmail.com
 
