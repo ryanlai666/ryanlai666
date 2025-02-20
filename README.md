@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryanlai666
-- 👀 I’m interested in intership in data sciencist & software engineer
+- 👀 I’m interested in intership in data sciencist & ML software engineer
 - 🌱 I’m currently learning machine learning & deep learning
-- 📫 How to reach me b9081726354@gmail.com
+- 📫 How to reach me b9081726354@gmail.com ryan_lai@tamu.edu
 
 <!---
 ryanlai666/ryanlai666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
