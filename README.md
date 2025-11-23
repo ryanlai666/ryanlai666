@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanlai666
 - 👀 I’m interested in intership in data sciencist & ML software engineer
-- 🌱 I’m currently learning machine learning & deep learning
+- 🌱 I’m proficient learning machine learning & deep learning & computational chemistry
 - 📫 How to reach me b9081726354@gmail.com ryan_lai@tamu.edu
 
 <!---
