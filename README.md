@@ -1,4 +1,4 @@
-###  Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer
+###  Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer Intern
 
 
 ### 🛠️ Tech Stack
