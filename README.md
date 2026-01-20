@@ -43,7 +43,7 @@
 * *JACS* (2025). [Lattice-Nitrogen-Mediated Chemistry Suppresses Hydrogen Evolution for Record Faradaic Efficiency... ](https://pubs.acs.org/doi/10.1021/jacs.5c09104)
 
 * *JACS* (2025). [Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics for...](https://pubs.acs.org/doi/10.1021/jacs.5c00106)
-
+* *JACS* (2025): [Vibrational Property Tuning of MXenes Revealed by Sublattice N Reactivity in Polar...](https://pubs.acs.org/doi/10.1021/jacs.4c13878)
 
 ---
 
