@@ -18,7 +18,7 @@
 
 ###  Featured Projects
 
-####  AI Agents & LLMs
+####  AI Agents / LLMs / ML
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Vasp-Wiki-Agent](https://github.com/ryanlai666/Vasp-Wiki-Agent)** | **RAG Pipeline** for VASP documentation. Retrieval-Augmented Generation built with **Gemini 2.5 Flash**, FAISS vector search, and a React frontend. | `Python` `LangChain` `Gemini` `React` |
