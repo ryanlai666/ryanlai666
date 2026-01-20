@@ -6,7 +6,7 @@
       <h3>🛠️ Tech Stack</h3>
       <ul>
         <li><b>AI & Machine Learning</b>: PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, LLM API, RF/SVM</li>
-        <li><b>Software Engineering & Web</b>: Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy</li>
+        <li><b>Software Engineering & Web</b>: Python, C++, TypeScript, JavaScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy</li>
         <li><b>Scientific Computing</b>: VASP, LAMMPS, Gaussian, Kinetic Monte Carlo, ReaxFF, Quantum Espresso, CP2k, GROMACS, COMSOL, RDKit/ASE, Ovito/VMD, PBS/Slurm, NequIP, DeepMD</li>
       </ul>
     </td>
