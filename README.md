@@ -4,13 +4,14 @@
 ### 🛠️ Tech Stack
 
 ** AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![GNN](https://img.shields.io/badge/Graph_Neural_Networks-FFA116?style=flat)
-
+ PyTorch , Scikit-Learn , LangChain , Google Gemini, Graph Neural Networks (GNN/GAT/EGT), NequIP, DeepMD, RF/SVM
+ Graph Neural Networks (GNN/GAT/EGT) ,  
+ 
 ** Software Engineering & Web**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+ Python , C++ , TypeScript, React, FastAPI, Flask , SQL (MySQL/SQLAlchemy) , Neo4j , R , Git , Linux (Shell Scripting/Bash) , OpenMP , Tableau , Pandas/NumPy 
 
 ** Scientific Computing**
-![VASP](https://img.shields.io/badge/VASP-DFT-blue) ![LAMMPS](https://img.shields.io/badge/LAMMPS-MD-green) ![OpenMP](https://img.shields.io/badge/OpenMP-HPC-red), Kinetic Monte Carlo
+VASP , LAMMPS , Gaussian , Kinetic Monte Carlo , ReaxFF, Quantum Espresso , CP2k , GROMACS , COMSOL , RDKit/ASE , Ovito/VMD , PBS/Slurm, NequIP , DeepMD
 
 ---
 
