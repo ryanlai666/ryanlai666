@@ -35,9 +35,12 @@
 ---
 
 ###  Recent Publications
-* **Nature Machine Intelligence (Accepted 2025):** *"A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation"*
-* **JACS (2025):** *"Lattice-Nitrogen-Mediated Chemistry Suppresses Hydrogen Evolution..."*
-* **JACS (2025):** *"Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics..."*
+* "**A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation**," *Nature Machine Intelligence* (Accepted, 2025). [arXiv:2504.18728](https://arxiv.org/abs/2504.18728)
+
+* "**Lattice-Nitrogen-Mediated Chemistry Suppresses Hydrogen Evolution for Record Faradaic Efficiency in Ammonia Synthesis**," *Journal of the American Chemical Society*, 2025. [DOI: 10.1021/jacs.5c09104](https://pubs.acs.org/doi/10.1021/jacs.5c09104)
+
+* "**Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics for Lithium Batteries**," *Journal of the American Chemical Society*, 2025. [DOI: 10.1021/jacs.5c00106](https://pubs.acs.org/doi/10.1021/jacs.5c00106)
+
 
 ---
 
