@@ -1,22 +1,5 @@
-###  Ph.D. @ Texas A&M | AI for Science | ML and Simulation Engineer
+###  Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer
 
-I am a Chemical Engineering Ph.D. researcher bridging the gap between **Computational Material Science** and **Artificial Intelligence**. My work focuses on accelerating material discovery (Batteries, Catalysts) using Graph Neural Networks (GNNs), LLM Agents, and High-Performance Computing.
-
-Currently, I am leveraging to automate complex scientific simulation workflows with LLM and developing ML/data-driven solutions for material discovery.
-
-
-### Connect with Me
-* 📧 **Email:** [ryan_lai@tamu.edu](mailto:ryan_lai@tamu.edu)  ;  **Personal Email:** [b9081726354@gmail.com](mailto:b9081726354@gmail.com)  
-
----
-
-### Highlights & Experience
-* **ByteDance (Al for Science Team):** Developed GNN models for battery electrolyte prediction (accepted by *Nature Machine Intelligence*).
-* **Tokyo Electron:** Implemented Machine Learning Potentials (NequIP) and ReaxFF parameterization.
-* **Texas A&M:** Elucidating reaction mechanisms (HER/NRR) using DFT and developing Multi-scale simulation frameworks.
-* **National Taiwan University:** Engineered high-performance **C++ and Python** software to calculate Interfacial Tension (IFT) using Gradient Theory of mixtures.
-
----
 
 ### 🛠️ Tech Stack
 
