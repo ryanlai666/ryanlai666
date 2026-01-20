@@ -7,7 +7,7 @@
 - PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, Google Gemini, NequIP, DeepMD, RF/SVM
  
 #### Software Engineering & Web
-- Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy
+- Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy
 
 #### Scientific Computing
 - VASP, LAMMPS, Gaussian, Kinetic Monte Carlo, ReaxFF, Quantum Espresso, CP2k, GROMACS, COMSOL, RDKit/ASE, Ovito/VMD, PBS/Slurm, NequIP, DeepMD
