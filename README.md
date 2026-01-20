@@ -1,15 +1,21 @@
 ###  Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer Intern
 
-
-### 🛠️ Tech Stack
-
-- **AI & Machine Learning** : PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, LLM API, RF/SVM
- 
-- **Software Engineering & Web** : Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy
-
-- **Scientific Computing** : VASP, LAMMPS, Gaussian, Kinetic Monte Carlo, ReaxFF, Quantum Espresso, CP2k, GROMACS, COMSOL, RDKit/ASE, Ovito/VMD, PBS/Slurm, NequIP, DeepMD
-
-
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>🛠️ Tech Stack</h3>
+      <ul>
+        <li><b>AI & Machine Learning</b>: PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, LLM API, RF/SVM</li>
+        <li><b>Software Engineering & Web</b>: Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy</li>
+        <li><b>Scientific Computing</b>: VASP, LAMMPS, Gaussian, Kinetic Monte Carlo, ReaxFF, Quantum Espresso, CP2k, GROMACS, COMSOL, RDKit/ASE, Ovito/VMD, PBS/Slurm, NequIP, DeepMD</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <h3>📊 Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,11 +44,6 @@
 
 * *JACS* (2025). [Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics for...](https://pubs.acs.org/doi/10.1021/jacs.5c00106)
 
-
----
-
-###  Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical)
 
 ---
 
