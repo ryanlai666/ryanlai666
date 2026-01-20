@@ -8,7 +8,7 @@ Currently, I am leveraging to automate complex scientific simulation workflows w
 
 
 ### Connect with Me
-* 📧 **Email:** [ryan_lai@tamu.edu](mailto:ryan_lai@tamu.edu)  **Personal Email:** [b9081726354@gmail.com](mailto:b9081726354@gmail.com)  
+* 📧 **Email:** [ryan_lai@tamu.edu](mailto:ryan_lai@tamu.edu)  ;  **Personal Email:** [b9081726354@gmail.com](mailto:b9081726354@gmail.com)  
 
 ---
 
