@@ -1,5 +1,3 @@
-# Hi there, I'm Hao-En (Ryan) Lai! 
-
 ###  Ph.D. @ Texas A&M | AI for Science | ML and Simulation Engineer
 
 I am a Chemical Engineering Ph.D. researcher bridging the gap between **Computational Material Science** and **Artificial Intelligence**. My work focuses on accelerating material discovery (Batteries, Catalysts) using Graph Neural Networks (GNNs), LLM Agents, and High-Performance Computing.
