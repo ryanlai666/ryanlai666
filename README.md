@@ -16,7 +16,7 @@ Currently, I am leveraging to automate complex scientific simulation workflows w
 * **ByteDance (Al for Science Team):** Developed GNN models for battery electrolyte prediction (accepted by *Nature Machine Intelligence*).
 * **Tokyo Electron:** Implemented Machine Learning Potentials (NequIP) and ReaxFF parameterization.
 * **Texas A&M:** Elucidating reaction mechanisms (HER/NRR) using DFT and developing Multi-scale simulation frameworks.
-* **National Taiwan University (Comp. Molecular Engineering Lab):** Engineered high-performance **C++ and Python** software to calculate Interfacial Tension (IFT) using Gradient Theory.
+* **National Taiwan University:** Engineered high-performance **C++ and Python** software to calculate Interfacial Tension (IFT) using Gradient Theory of mixtures.
 
 ---
 
