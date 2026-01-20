@@ -4,7 +4,7 @@
 ### 🛠️ Tech Stack
 
 #### AI & Machine Learning
-- PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, Google Gemini, NequIP, DeepMD, RF/SVM
+- PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, LLM API, RF/SVM
  
 #### Software Engineering & Web
 - Python, C++, TypeScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy
