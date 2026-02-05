@@ -12,7 +12,7 @@
     </td>
     <td valign="top" width="40%">
       <h3>📊 Stats</h3>
-      <img src="https://github-readme-stats-seven-delta-45.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
+      <img src="https://github-readme-stats-4kf5.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
     </td>
   </tr>
 </table>
