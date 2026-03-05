@@ -5,7 +5,7 @@
     <td valign="top" width="60%">
       <h3>🛠️ Tech Stack</h3>
       <ul>
-        <li><b>AI & Machine Learning</b>: PyTorch, Graph Neural Networks (GNN/GAT/EGT), Scikit-Learn, LangChain, LLM API, RF/SVM</li>
+        <li><b>AI & Machine Learning</b>: PyTorch, Graph Neural Networks (GNN/GAT/EGT), CNN, Vit, Scikit-Learn, LangChain, LLM API, RF/SVM</li>
         <li><b>Software Engineering & Web</b>: Python, C++, TypeScript, JavaScript, React, FastAPI, Flask, SQL (MySQL/SQLAlchemy/PostgreSQL/SQLite), Neo4j, R, Git, Linux (Shell Scripting/Bash), OpenMP, Tableau, Pandas/NumPy</li>
         <li><b>Scientific Computing</b>: VASP, LAMMPS, Gaussian, Kinetic Monte Carlo, ReaxFF, Quantum Espresso, CP2k, GROMACS, COMSOL, RDKit/ASE, Ovito/VMD, PBS/Slurm, NequIP, DeepMD</li>
       </ul>
@@ -21,12 +21,13 @@
 
 ###  Featured Projects
 
-####  AI Agents / LLMs / ML
+#### ML / AI Agents / LLMs 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[bamboo_mixer](https://github.com/ryanlai666/bamboo_mixer)** | **Nature Machine Intelligence** project. Prediction-generation pipeline for Electrolyte discovery using Graph Neural Networks. | `Python` `GNN` `PyTorch` |
+| **[PCB-Defect-Benchmark](https://github.com/ryanlai666/PCB-Defect-CV-Benchmark)** | **Computer Vision Benchmark** comparing 6 state-of-the-art architectures (YOLO, RT-DETR, DINOv3, ViT) for real-time PCB defect detection. |  `PyTorch` `Computer-vision` `CNN` `DINOv3` |
 | **[Vasp-Wiki-Agent](https://github.com/ryanlai666/Vasp-Wiki-Agent)** | **RAG Pipeline** for VASP documentation. Retrieval-Augmented Generation built with **Gemini 2.5 Flash**, FAISS vector search, and a React frontend. | `Python` `LangChain` `Gemini` `React` |
 | **[IR_spectra_agent](https://github.com/ryanlai666/IR_agent_conda)** | **LangGraph** Computational Chemistry Agent designed to automate Geometry Optimization and IR spectra calculations. | `Python` `LangGraph` `LLM` |
-| **[bamboo_mixer](https://github.com/ryanlai666/bamboo_mixer)** | **Nature Machine Intelligence** project. Prediction-generation pipeline for Electrolyte discovery using Graph Neural Networks. | `Python` `GNN` `PyTorch` |
 
 ####  Full Stack & Data Apps
 | Project | Description | Tech |
