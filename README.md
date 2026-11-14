@@ -1,4 +1,4 @@
-### Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer Intern @ ByteDance/TEL/AMAT
+### Ph.D. @ Texas A&M | AI for Science | Ex-ML and Simulation Engineer Intern @ ByteDance/TEL
 
 Machine learning, computer vision and computational chemistry, from atomistic simulation to manufacturing data.
 
