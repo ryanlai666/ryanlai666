@@ -2,15 +2,24 @@
 
 Machine learning, computer vision and computational chemistry, from atomistic simulation to manufacturing data.
 
-**Start here:**
-* [SEM defect inspection](https://github.com/ryanlai666/SEM_Defect_Inspection) (computer vision)
-* [Plasma-etch virtual metrology](https://github.com/ryanlai666/Plasma_Etch_VM) (data/ML)
-* [Electrolyte design, *Nature Machine Intelligence*](https://github.com/ryanlai666/bamboo_mixer) (computational chemistry + ML)
-* [IR spectra agent](https://github.com/ryanlai666/IR_spectra_agent) (LLM agent + atomistic ML)
-
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="38%">
+      <h3>Stats</h3>
+      <img src="https://github-readme-stats-4kf5.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top languages" />
+    </td>
+    <td valign="top" width="62%">
+      <h3>Recent Publications</h3>
+      <ul>
+        <li><i>Nature Machine Intelligence</i> (2026). <a href="https://arxiv.org/abs/2504.18728">A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation</a></li>
+        <li><i>JACS</i> (2025). <a href="https://pubs.acs.org/doi/10.1021/jacs.5c09104">Lattice-Nitrogen-Mediated Chemistry Suppresses Hydrogen Evolution for Record Faradaic Efficiency... </a></li>
+        <li><i>JACS</i> (2025). <a href="https://pubs.acs.org/doi/10.1021/jacs.5c00106">Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics for...</a></li>
+        <li><i>JACS</i> (2025). <a href="https://pubs.acs.org/doi/10.1021/jacs.4c13878">Vibrational Property Tuning of MXenes Revealed by Sublattice N Reactivity in Polar...</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
       <h3>Tech Stack</h3>
       <ul>
         <li><b>Machine learning & computer vision</b>: PyTorch, CNN/ViT/DINOv2, YOLO, RT-DETR, Faster R-CNN, anomaly detection (PatchCore), GNN (GAT, EGT) and E(3)-equivariant networks, neural operators (FNO, DeepONet), PINNs, LightGBM, scikit-learn (RF, SVM), conformal prediction, reinforcement learning</li>
@@ -19,16 +28,12 @@ Machine learning, computer vision and computational chemistry, from atomistic si
         <li><b>Software & data engineering</b>: Python, C++, CUDA, TensorRT, OpenMP, Rust, R, TypeScript/JavaScript, React, FastAPI, Flask, SQL (MySQL, PostgreSQL, SQLite), Neo4j, Pandas/NumPy, Docker, MLflow, GitHub Actions, Linux/Bash, Slurm/PBS, Tableau</li>
       </ul>
     </td>
-    <td valign="top" width="40%">
-      <h3>Stats</h3>
-      <img src="https://github-readme-stats-4kf5.vercel.app/api/top-langs/?username=ryanlai666&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top languages" />
-    </td>
   </tr>
 </table>
 
 ---
 
-## Semiconductor & electronics manufacturing
+## Semiconductors
 *Computer vision · data/ML · physics-informed ML*
 
 <table>
@@ -96,7 +101,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
 </table>
 
 ## Computational chemistry, materials & energy
-*Atomistic ML · LLM agents · DFT*
+*Atomistic ML · LLM agents · DFT · cheminformatics*
 
 <table>
   <tr>
@@ -156,15 +161,6 @@ Machine learning, computer vision and computational chemistry, from atomistic si
       </ul>
       <code>RAG</code> <code>LLM</code> <code>FastAPI</code> <code>React</code>
     </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-## Life science & data apps
-*Cheminformatics · data visualization*
-
-<table>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ryanlai666/Openadmet_db_tableau"><img src="assets/Openadmet_db_tableau.gif" width="100%" alt="OpenADMET explorer with molecule viewer and statistics"></a><br>
       <b><a href="https://github.com/ryanlai666/Openadmet_db_tableau">OpenADMET Explorer</a></b><br>
@@ -175,6 +171,23 @@ Machine learning, computer vision and computational chemistry, from atomistic si
         <li>Plotly statistics, served with FastAPI.</li>
       </ul>
       <code>Cheminformatics</code> <code>RDKit</code> <code>Data visualization</code> <code>FastAPI</code>
+    </td>
+  </tr>
+</table>
+
+## Reinforcement learning & simulation
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ryanlai666/lunar_bench"><img src="assets/lunar_bench.gif" width="100%" alt="Double DQN agent landing in LunarLander"></a><br>
+      <b><a href="https://github.com/ryanlai666/lunar_bench">LunarLander RL Benchmark</a></b><br>
+      PPO, A2C and Double DQN written from scratch in NumPy, run on LunarLander (Box2D) and on a batched Rust simulator.
+      <ul>
+        <li>Fixed budget, 3 seeds per method.</li>
+        <li>Double DQN lands 70 % of episodes.</li>
+      </ul>
+      <code>Reinforcement learning</code> <code>NumPy</code> <code>Rust</code>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -209,24 +222,6 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
 </table>
 
-## Reinforcement learning & simulation
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/lunar_bench"><img src="assets/lunar_bench.gif" width="100%" alt="Double DQN agent landing in LunarLander"></a><br>
-      <b><a href="https://github.com/ryanlai666/lunar_bench">LunarLander RL Benchmark</a></b><br>
-      PPO, A2C and Double DQN written from scratch in NumPy, run on LunarLander (Box2D) and on a batched Rust simulator.
-      <ul>
-        <li>Fixed budget, 3 seeds per method.</li>
-        <li>Double DQN lands 70 % of episodes.</li>
-      </ul>
-      <code>Reinforcement learning</code> <code>NumPy</code> <code>Rust</code>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
 ## Full-stack web apps
 
 <table>
@@ -253,11 +248,3 @@ Machine learning, computer vision and computational chemistry, from atomistic si
     </td>
   </tr>
 </table>
-
----
-
-### Recent Publications
-* *Nature Machine Intelligence* (2026). [A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation](https://arxiv.org/abs/2504.18728)
-* *JACS* (2025). [Lattice-Nitrogen-Mediated Chemistry Suppresses Hydrogen Evolution for Record Faradaic Efficiency... ](https://pubs.acs.org/doi/10.1021/jacs.5c09104)
-* *JACS* (2025). [Linking Solvation Equilibrium Thermodynamics to Electrolyte Transport Kinetics for...](https://pubs.acs.org/doi/10.1021/jacs.5c00106)
-* *JACS* (2025). [Vibrational Property Tuning of MXenes Revealed by Sublattice N Reactivity in Polar...](https://pubs.acs.org/doi/10.1021/jacs.4c13878)
