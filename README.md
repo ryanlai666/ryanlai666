@@ -125,7 +125,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
       <code>GNN</code> <code>Generative models</code> <code>Electrolytes</code> <code>PyTorch</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/IR_spectra_agent"><img src="assets/IR_spectra_agent.png" width="100%" alt="Adsorption-induced IR band shifts by method vs literature"></a><br>
+      <a href="https://github.com/ryanlai666/IR_spectra_agent"><img src="assets/IR_spectra_agent.png" width="100%" alt="IR Spectra Agent LangGraph workflow: planner, geometry, calculation, critic with retry loop, plot_geometry, spectra, analysis"></a><br>
       <b><a href="https://github.com/ryanlai666/IR_spectra_agent">IR Spectra Agent</a></b><br>
       A LangGraph agent turns a plain-language request into an IR-spectrum calculation for molecules and surface adsorbates.
       <ul>
