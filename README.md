@@ -62,7 +62,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/Plasma_Etch_VM"><img src="assets/Plasma_Etch_VM.png" width="100%" alt="Etch depth per wafer and model comparison"></a><br>
+      <a href="https://github.com/ryanlai666/Plasma_Etch_VM"><img src="assets/Plasma_Etch_VM.png" width="100%" alt="Optical emission and tool sensors in, predicted wafer etch depth out, predicted vs measured for all held-out wafers"></a><br>
       <b><a href="https://github.com/ryanlai666/Plasma_Etch_VM">Plasma-Etch Virtual Metrology</a></b><br>
       Predicts etch depth from optical emission spectra and tool sensors on an open plasma-etch dataset (96 wafers).
       <ul>
