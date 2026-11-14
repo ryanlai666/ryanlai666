@@ -184,6 +184,33 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
 </table>
 
+## Full-stack web apps
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ryanlai666/Meat_Cut"><img src="assets/Meat_Cut.gif" width="100%" alt="Meat Cut guide app demo"></a><br>
+      <b><a href="https://github.com/ryanlai666/Meat_Cut">Meat Cut Guide</a></b><br>
+      Beef-cut guide app.
+      <ul>
+        <li>React frontend with search and an admin console.</li>
+        <li>Node.js API, SQLite metadata and Google Drive image sync.</li>
+      </ul>
+      <code>React</code> <code>Node.js</code> <code>SQLite</code> <code>Google Drive API</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ryanlai666/resturant_app"><img src="assets/resturant_app.gif" width="100%" alt="Restaurant ordering app demo"></a><br>
+      <b><a href="https://github.com/ryanlai666/resturant_app">Restaurant Ordering App</a></b><br>
+      Restaurant ordering app.
+      <ul>
+        <li>React and Material UI menu, cart and order flow.</li>
+        <li>Express backend with SQLite.</li>
+      </ul>
+      <code>TypeScript</code> <code>React</code> <code>Express</code> <code>SQLite</code>
+    </td>
+  </tr>
+</table>
+
 ## Time series
 *Statistics · pattern recognition*
 
@@ -209,33 +236,6 @@ Machine learning, computer vision and computational chemistry, from atomistic si
         <li>Broad indices lead sector ETFs by one day.</li>
       </ul>
       <code>Time series</code> <code>GARCH</code> <code>Statistics</code>
-    </td>
-  </tr>
-</table>
-
-## Full-stack web apps
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/Meat_Cut"><img src="assets/Meat_Cut.gif" width="100%" alt="Meat Cut guide app demo"></a><br>
-      <b><a href="https://github.com/ryanlai666/Meat_Cut">Meat Cut Guide</a></b><br>
-      Beef-cut guide app.
-      <ul>
-        <li>React frontend with search and an admin console.</li>
-        <li>Node.js API, SQLite metadata and Google Drive image sync.</li>
-      </ul>
-      <code>React</code> <code>Node.js</code> <code>SQLite</code> <code>Google Drive API</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/resturant_app"><img src="assets/resturant_app.gif" width="100%" alt="Restaurant ordering app demo"></a><br>
-      <b><a href="https://github.com/ryanlai666/resturant_app">Restaurant Ordering App</a></b><br>
-      Restaurant ordering app.
-      <ul>
-        <li>React and Material UI menu, cart and order flow.</li>
-        <li>Express backend with SQLite.</li>
-      </ul>
-      <code>TypeScript</code> <code>React</code> <code>Express</code> <code>SQLite</code>
     </td>
   </tr>
 </table>
