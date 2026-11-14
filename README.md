@@ -99,10 +99,11 @@ Machine learning, computer vision and computational chemistry, from atomistic si
     <td width="50%" valign="top">
       <a href="https://github.com/ryanlai666/lunar_bench"><img src="assets/lunar_bench.gif" width="100%" alt="Double DQN agent landing in LunarLander"></a><br>
       <b><a href="https://github.com/ryanlai666/lunar_bench">LunarLander RL Benchmark</a></b><br>
-      PPO, A2C and Double DQN written from scratch in NumPy, run on LunarLander (Box2D) and on a batched Rust simulator.
+      Six RL algorithms written from scratch in NumPy (PPO, A2C, Double DQN, Discrete SAC, GRPO, GFlowNet-TB), run on LunarLander (Box2D) and on a batched Rust simulator.
       <ul>
         <li>Fixed budget, 3 seeds per method.</li>
-        <li>Double DQN lands 70 % of episodes.</li>
+        <li>Best on Box2D: Double DQN, 70 % landings.</li>
+        <li>Greedy vs sampled actions can disagree: GRPO lands 0 % greedily but 92 % sampled on the Rust simulator.</li>
       </ul>
       <code>Reinforcement learning</code> <code>Physics simulation</code> <code>NumPy</code> <code>Rust</code>
     </td>
