@@ -34,7 +34,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
 ---
 
 ## Semiconductors
-*Computer vision · data/ML · physics-informed ML*
+*Computer vision · data/ML · physics-informed ML & reinforcement learning*
 
 <table>
   <tr>
@@ -96,7 +96,16 @@ Machine learning, computer vision and computational chemistry, from atomistic si
       </ul>
       <code>Kinetic Monte Carlo</code> <code>C++</code> <code>ML potentials</code> <code>DFT</code>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ryanlai666/lunar_bench"><img src="assets/lunar_bench.gif" width="100%" alt="Double DQN agent landing in LunarLander"></a><br>
+      <b><a href="https://github.com/ryanlai666/lunar_bench">LunarLander RL Benchmark</a></b><br>
+      PPO, A2C and Double DQN written from scratch in NumPy, run on LunarLander (Box2D) and on a batched Rust simulator.
+      <ul>
+        <li>Fixed budget, 3 seeds per method.</li>
+        <li>Double DQN lands 70 % of episodes.</li>
+      </ul>
+      <code>Reinforcement learning</code> <code>Physics simulation</code> <code>NumPy</code> <code>Rust</code>
+    </td>
   </tr>
 </table>
 
@@ -129,7 +138,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/Semi-E3-MLIP"><img src="assets/Semi-E3-MLIP.png" width="100%" alt="Architecture of the E(3)-equivariant interatomic potential"></a><br>
+      <a href="https://github.com/ryanlai666/Semi-E3-MLIP"><img src="assets/Semi-E3-MLIP.gif" width="100%" alt="Si slab molecular dynamics, DFT vs Semi-E3-MLIP, with held-out energy and force parity plots"></a><br>
       <b><a href="https://github.com/ryanlai666/Semi-E3-MLIP">Semi-E3-MLIP</a></b><br>
       A conservative E(3)-equivariant interatomic potential written from scratch in PyTorch, without e3nn or PyG.
       <ul>
@@ -172,24 +181,6 @@ Machine learning, computer vision and computational chemistry, from atomistic si
       </ul>
       <code>Cheminformatics</code> <code>RDKit</code> <code>Data visualization</code> <code>FastAPI</code>
     </td>
-  </tr>
-</table>
-
-## Reinforcement learning & simulation
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ryanlai666/lunar_bench"><img src="assets/lunar_bench.gif" width="100%" alt="Double DQN agent landing in LunarLander"></a><br>
-      <b><a href="https://github.com/ryanlai666/lunar_bench">LunarLander RL Benchmark</a></b><br>
-      PPO, A2C and Double DQN written from scratch in NumPy, run on LunarLander (Box2D) and on a batched Rust simulator.
-      <ul>
-        <li>Fixed budget, 3 seeds per method.</li>
-        <li>Double DQN lands 70 % of episodes.</li>
-      </ul>
-      <code>Reinforcement learning</code> <code>NumPy</code> <code>Rust</code>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
