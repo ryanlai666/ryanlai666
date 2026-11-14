@@ -33,7 +33,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
 
 ---
 
-## Semiconductors
+## ML for Semiconductors
 *Computer vision · data/ML · physics-informed ML & reinforcement learning*
 
 <table>
@@ -109,7 +109,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
 </table>
 
-## Computational chemistry, materials & energy
+## ML for Computational chemistry, materials & energy
 *Atomistic ML · LLM agents · DFT · cheminformatics*
 
 <table>
