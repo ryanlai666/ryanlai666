@@ -193,7 +193,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
   </tr>
 </table>
 
-## Finance & time series
+## Time series
 *Statistics · pattern recognition*
 
 <table>
