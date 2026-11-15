@@ -22,7 +22,7 @@ Machine learning, computer vision and computational chemistry, from atomistic si
     <td valign="top" colspan="2">
       <h3>Tech Stack</h3>
       <ul>
-        <li><b>Machine learning & computer vision</b>: PyTorch, CNN/ViT/DINOv2, YOLO, RT-DETR, Faster R-CNN, anomaly detection (PatchCore), GNN (GAT, EGT) and E(3)-equivariant networks, neural operators (FNO, DeepONet), PINNs, LightGBM, scikit-learn (RF, SVM), conformal prediction, reinforcement learning</li>
+        <li><b>Machine learning & computer vision</b>: PyTorch, CNN/ViT/DINOv2, YOLO, RT-DETR, Faster R-CNN, anomaly detection (PatchCore), OPENCV, GNN (GAT, EGT) and E(3)-equivariant networks, neural operators (FNO, DeepONet), PINNs, LightGBM, scikit-learn (RF, SVM), conformal prediction, reinforcement learning</li>
         <li><b>Software & data engineering</b>: Python, C++, CUDA, TensorRT, Rust, R, React, FastAPI, Flask, SQL (MySQL, PostgreSQL, SQLite), Neo4j, Pandas/NumPy, Docker, MLflow, GitHub Actions, Linux/Bash, Slurm/PBS</li>
         <li><b>Computational chemistry</b>: VASP, Quantum ESPRESSO, CP2K, Gaussian, LAMMPS, GROMACS, ASE, RDKit, ML potentials (MACE, NequIP, DeePMD, UMA, Orb), kinetic Monte Carlo, ReaxFF, COMSOL, Ovito/VMD</li>
         <li><b>LLM & agents</b>: LangGraph, LangChain, Gemini API, RAG (FAISS)</li>
